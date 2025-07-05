@@ -1,4 +1,4 @@
-# train_lstm.py
+# train_lstm_Near.py
 
 from sklearn.utils import shuffle
 import torch
